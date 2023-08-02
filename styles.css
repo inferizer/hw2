@@ -1,0 +1,52 @@
+body {
+    margin: 40px;
+}
+
+.container {
+    display: inline;
+    position: absolute;
+    border: solid #8d8d8d;
+    border-radius: 15px;
+    margin: 0;
+    width: 200px;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    position: absolute;
+    left: 0px;
+}
+
+.w3-container {
+    position: absolute;
+    top: -5px;
+    right: -10px;
+}
+
+.para {
+    border-top: solid;
+    border-color: #8d8d8d;
+    text-align: center;
+}
+
+.w3-red,
+.w3-hover-red:hover {
+    color: #fff !important;
+    background-color: #f44336 !important
+}
+
+.w3-badge,
+.w3-tag {
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center
+}
+
+.w3-badge {
+    border-radius: 100%
+}
