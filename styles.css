@@ -9,6 +9,7 @@ body {
     border-radius: 15px;
     margin: 0;
     width: 200px;
+    box-shadow: 3px 1px 10px 0px;
 }
 
 button {
